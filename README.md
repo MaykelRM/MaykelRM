@@ -1,6 +1,6 @@
 # 💻 Fernando Maykel
 
-**'Desenvolvedor Front-End'**
+**'Desenvolvedor'**
 
 Meu nome é Fernando Maykel, sou técnico em Redes de computadores e um desenvolvedor apaixonado por tecnologia, com experiência em Flutter e automação com Arduino. 
 
