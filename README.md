@@ -30,14 +30,6 @@ Meu nome é Fernando Maykel, sou técnico em Redes de computadores e um desenvol
 <br/>
 
 ### 📊 Estatísticas
-
-<img 
-    align="left"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=MaykelRM&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
-/>
-
 <img 
     align="left"
     height="200"
