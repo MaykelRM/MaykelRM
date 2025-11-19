@@ -1,6 +1,7 @@
 # 💻 Fernando Maykel
 
-**'Desenvolvedor'**
+**Estudande de Engenharia de Mecatrônica**
+**Técnico em Redes de Computadores**
 
 Meu nome é Fernando Maykel, sou técnico em Redes de Computadores e atualmente curso Engenharia de Mecatrônica. Estou continuamente em processo de aprendizagem e busco maneiras de integrar minhas competências em programação e tecnologia ao universo da mecatrônica, explorando soluções que conectem software e hardware de forma eficiente e inovadora.
 
