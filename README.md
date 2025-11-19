@@ -12,7 +12,7 @@ Meu nome é Fernando Maykel, sou técnico em Redes de computadores e um desenvol
     align="left"
     alt="Arduino"
     title="Arduino"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" 
 />
@@ -21,7 +21,7 @@ Meu nome é Fernando Maykel, sou técnico em Redes de computadores e um desenvol
     align="left"
     alt="C"
     title="C"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
@@ -36,3 +36,11 @@ Meu nome é Fernando Maykel, sou técnico em Redes de computadores e um desenvol
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykelRM&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=3"
 />
+
+<br/>
+<br/>
+
+## Contatos:
+<div>
+<a href="https://www.linkedin.com/in/maykel-rodrigues-b20690344" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
