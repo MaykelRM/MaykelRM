@@ -40,7 +40,7 @@ Meu nome é Fernando Maykel, sou técnico em Redes de computadores e um desenvol
 <br/>
 <br/>
 
-## Contatos:
+### Contatos:
 <div>
 <a href="https://www.linkedin.com/in/maykel-rodrigues-b20690344" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
