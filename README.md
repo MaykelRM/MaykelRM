@@ -28,6 +28,15 @@ Meu nome é Fernando Maykel, sou técnico em Redes de Computadores e atualmente 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
 
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
 <br/>
 <br/>
 
